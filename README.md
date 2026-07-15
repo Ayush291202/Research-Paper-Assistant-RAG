@@ -1,4 +1,4 @@
-# Research Paper Assistant (RAG)
+# RefRAG: Research Paper Assistant (RAG)
 
 A simple Retrieval-Augmented Generation system that answers questions about your
 research papers. Built with LangChain + Chroma + Hugging Face embeddings + Ollama.
